@@ -1,5 +1,7 @@
 # Scoreboard React App
 
+![](public/scoreboard.PNG)
+
 The scoreboard has 4 predefined players. Each player has their score counter. The user can increment and decrement the score by 1 point by clicking the "+" or "-" button. Players can also be removed by clicking the "x" button beside the player's name. The number of players and total points accumulated by the players will be updated on the header whenever a change occurs.
 
 ## Components:
@@ -24,7 +26,7 @@ The Player component returns the list of players with its corresponding score an
 
 The Counter component allows the user to change the state of the player's score by incrementing and decrementing it with an onClick event.
 
-### AddPLayerForm
+### AddPlayerForm
 
 The AddPlayerForm component allows the user to add new players when the form is submitted.
 
