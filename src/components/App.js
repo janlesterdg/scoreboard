@@ -5,6 +5,7 @@ import AddPlayerForm from './AddPlayerForm';
 
 class App extends Component {
   state = {
+    // Team Payaman sample players
     players: [
       {
         name: 'Cong TV',
