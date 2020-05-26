@@ -12,3 +12,23 @@ The App component contains the player objects and the props of Header, Player, a
 
 The Header component returns the title and sets the Stats component's props.
 
+### Stats
+
+The Stats component returns the number of players and the total points accumulated by the players.
+
+### Player
+
+The Player component returns the list of players with its corresponding score and allows the user to remove a player.
+
+### Counter
+
+The Counter component allows the user to change the state of the player's score by incrementing and decrementing it with an onClick event.
+
+### AddPLayerForm
+
+The AddPlayerForm component allows the user to add new players when the form is submitted.
+
+
+
+
+
